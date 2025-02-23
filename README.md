@@ -62,3 +62,9 @@ Note that the stretched aspect ratio is caused by the font and formatting of the
 
 
 Allowed TABLE_NAME values are: `linear` and `non-linear`.
+
+**Testing the app:**
+
+To run the test suite, navigate to the root project directory and execute `sbt test`.
+
+When expanding the app, please make sure that you run the existing tests and add new ones for any new functionality. Also, make sure the tests, and of course the main code, follow object-oriented principles.
